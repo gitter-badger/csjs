@@ -1,5 +1,7 @@
 # [![CSJS logo](https://cdn.rawgit.com/rtsao/csjs/logo/logo.svg "CSJS (Cascading Style JavaScripts)")](https://github.com/rtsao/csjs)
 
+[![Join the chat at https://gitter.im/rtsao/csjs](https://badges.gitter.im/rtsao/csjs.svg)](https://gitter.im/rtsao/csjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![build status][build-badge]][build-href]
 [![coverage status][coverage-badge]][coverage-href]
 [![dependencies status][deps-badge]][deps-href]
